@@ -1,0 +1,13 @@
+This is the installer for the LGEP Application. A desktop application used by the maritimes ports administration for reservations on the port.
+The application was coded in C# and need the database in the EGPM directory to be functional
+Please note that you need these information to log in to the application :
+
+Main Admin:
+
+Nom d'utilisateur: SupAdmin
+Mot de passe: e5g8p9m
+
+Algiers port admin :
+
+Nom d'utilisateur: AlgerAdmin
+Mot de passe: alger2016
